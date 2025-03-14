@@ -1,0 +1,2 @@
+EarthquakeForecast コード表
+（種別："緊急地震速報"）

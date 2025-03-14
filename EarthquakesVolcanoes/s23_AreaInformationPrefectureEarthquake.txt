@@ -1,0 +1,2 @@
+AreaInformationPrefectureEarthquake コード表
+（種別："地震情報／都道府県等"）

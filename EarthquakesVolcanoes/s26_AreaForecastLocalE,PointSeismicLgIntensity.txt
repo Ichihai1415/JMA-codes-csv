@@ -1,0 +1,2 @@
+AreaForecastLocalE ・ PointSeismicLgIntensity コード表
+（種別："地震情報／細分区域"・"長周期地震動観測点"）

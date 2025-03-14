@@ -1,0 +1,2 @@
+EarthquakeInformation コード表
+（種別："地震関連情報番号"）

@@ -1,0 +1,2 @@
+AreaForecastLocalE ・ AreaInformationCity ・ PointSeismicIntensity コード表
+（種別："地震情報／細分区域"・"気象・地震・火山情報／市町村等"・"震度観測点"）
